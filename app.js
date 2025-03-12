@@ -8,7 +8,7 @@ function agregarAmigo() {
         return alert('Por favor ingrese un nombre valido');
     }
 
-    // Esto vacia la lista para evitar duplicados.
+    // Esto vacía la lista para evitar duplicados.
     listaDeAmigos.innerHTML = '';
     // Crea elementos <li> para que los nombres agregados no esten en la misma linea.
     nombreAmigos.forEach(amigo => {
@@ -16,8 +16,8 @@ function agregarAmigo() {
         listaPrueba.textContent = amigo;
         listaDeAmigos.append(listaPrueba);
     });
-     console.log(nombreAmigos);
-    return console.log(listaDeAmigos);
+    // Vacía el campo de texto al agregar un nombre.
+    document.getElementById('amigo').value="";
 }
 
 function sortearAmigo() {
