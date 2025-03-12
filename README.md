@@ -4,11 +4,12 @@ Estado del proyecto: Terminado
 
 Instrucciones de uso:
 
-- Ingrese el nombre de su amigo en el campo de texto y luego presiona el botón que dice "Añadir". Una vez haya terminado de añadir a sus amigos presione el botón que dice "Sortear amigo"
+- Ingrese el nombre de su amigo en el campo de texto y luego presiona el botón que dice "Añadir".
+- Una vez haya terminado de añadir a sus amigos presione el botón "Sortear amigo".
 
 Instalación:
 
-- Haga click en el siguiente enlace para descargar el proyecto: <a href="https://github.com/EN-off/juego-amigo-secreto/archive/refs/heads/main.zip">Juego amigo secreto</a>
-- Luego haga click derecho en el archivo que acaba de descargar y haga click en "Extraer aqui".
+- Haga click en el siguiente <a href="https://github.com/EN-off/juego-amigo-secreto/archive/refs/heads/main.zip">aqui</a> para descargar el proyecto.
+- Una vez haya instalado el proyecto presione el click derecho sobre el archivo y haga click en "Extraer aqui".
   
   <img src="https://github.com/user-attachments/assets/4ff2b7ac-020a-4db8-b775-a68ffeba75c5"></img>
