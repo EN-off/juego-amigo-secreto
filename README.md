@@ -8,4 +8,4 @@ Instrucciones de uso:
 
 Instalación:
 
-- Haga click en el siguiente enlace para instalar el proyecto: <a href="https://github.com/EN-off/juego-amigo-secreto/archive/refs/heads/main.zip"></a>
+- Haga click en el siguiente enlace para instalar el proyecto: <a href="https://github.com/EN-off/juego-amigo-secreto/archive/refs/heads/main.zip">Juego amigo secreto</a>
