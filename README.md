@@ -9,5 +9,5 @@ Instrucciones de uso:
 Instalación:
 
 - Haga click en el siguiente enlace para descargar el proyecto: <a href="https://github.com/EN-off/juego-amigo-secreto/archive/refs/heads/main.zip">Juego amigo secreto</a>
-- Luego haga click derecho en el archivo que acaba de descargar y luego haga click en "Extraer aqui". Abajo encontraras una imagen representativa
-  <img src="![Extraer archivo](https://github.com/user-attachments/assets/4ff2b7ac-020a-4db8-b775-a68ffeba75c5)"></img>
+- Luego haga click derecho en el archivo que acaba de descargar y luego haga click en "Extraer aqui".
+  <img src="![Extraer archivo](https://github.com/user-attachments/assets/4ff2b7ac-020a-4db8-b775-a68ffeba75c5)">Imagen representativa</img>
