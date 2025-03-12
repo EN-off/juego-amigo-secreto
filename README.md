@@ -4,7 +4,7 @@ Estado del proyecto: Terminado
 
 Instrucciones de uso:
 
-**1** Ingrese el nombre de su amigo en el campo de texto y presione el botón "Añadir".
+────1──── Ingrese el nombre de su amigo en el campo de texto y presione el botón "Añadir".
 2.- Repita el proceso hasta haber agregado todos los participantes.
 3.- Presione el botón "Sortear amigo" para realizar el sorteo.
 
